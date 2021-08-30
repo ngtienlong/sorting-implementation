@@ -8,16 +8,15 @@ A sorting visualizer that built on
 
 # Algorithm (to be) implemente(d)
 
-[X] Bubble Sort
-[X] Merge Sort
-[] Quick Sort
+-   [x] Implement test for algorithm
+-   [x] Bubble Sort
+-   [x] Merge Sort
+-   [x] Quick Sort
 
 # Project to-dos:
 
-[] Create a random array to be sorted (20 in length?)
-[] Print out the unsorted array
-[] Implement algorithms:
-[] Print out the sorted algorithm
-[] Calculate the time
-[] Implement test for algorithm
-~[] Visualize (Need to think in detail)~
+-   [x] Create a random array to be sorted ~((20 in length?))~, now have option to choose
+-   [x] Print out the unsorted array in red
+-   [x] Implement algorithms
+-   [x] Print out the sorted algorithm -[X] Calculate the time
+-   ~[] Visualize (Need to think in detail)~
